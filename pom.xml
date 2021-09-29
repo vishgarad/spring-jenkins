@@ -11,6 +11,7 @@
 	<groupId>com.jenkins</groupId>
 	<artifactId>spring-jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>spring-jenkins</name>
 	<description>Demo project for Spring Boot with jenkins</description>
 	<properties>
